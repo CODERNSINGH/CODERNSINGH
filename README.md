@@ -39,13 +39,12 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
 ## 🌍 Upstream contributions
 
 <!--UPSTREAM:START-->
-**16 merged · 4 in review · 4 repositories** <sub>(auto-updated daily)</sub>
+**16 merged · 3 in review · 4 repositories** <sub>(auto-updated daily)</sub>
 
 | | project | pull request | status | opened |
 |:-:|:--|:--|:--|:--|
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.4k</sub> | [[SPARK-60594][PYTHON] Treat NaN partition keys as equal when splitting Python UDTF TABLE…](https://github.com/apache/spark/pull/60233) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.4k</sub> | [[SPARK-48995][PYTHON] Fix intermittent NullPointerException in Column.startswith/endswith…](https://github.com/apache/spark/pull/60222) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.4k</sub> | [[MINOR][BUILD] Quote checksum file path in build/mvn to support directories with spaces](https://github.com/apache/spark/pull/60209) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-60594][PYTHON] Treat NaN partition keys as equal when splitting Python UDTF TABLE…](https://github.com/apache/spark/pull/60233) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-48995][PYTHON] Fix intermittent NullPointerException in Column.startswith/endswith…](https://github.com/apache/spark/pull/60222) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [Close issue 26: working Docker deployment + fix broken prep guide link](https://github.com/newton-school-ai/hireflow-ai_1/pull/59) | 🟢&nbsp;in&nbsp;review | Sep 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [feat: add EmailService for weekly report delivery (Issue #21)](https://github.com/newton-school-ai/hireflow-ai_1/pull/50) | 🟣&nbsp;merged | Jul 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [feat: add ReportGenerator and weekly report API (Issue #20)](https://github.com/newton-school-ai/hireflow-ai_1/pull/49) | 🟣&nbsp;merged | Jul 2026 |
@@ -146,10 +145,10 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 6 days ago |
-| [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 12 days ago |
+| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 7 days ago |
+| [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 13 days ago |
 | [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 2 weeks ago |
-| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 2 weeks ago |
+| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 3 weeks ago |
 | [**airis-lecture-01**](https://github.com/CODERNSINGH/airis-lecture-01) | AIRIS lecture 01: intro to AI and the toolkit | `—` | 6 weeks ago |
 | [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 7 weeks ago |
 <!--RECENT:END-->
@@ -235,10 +234,10 @@ timeline
   ],
   "stats": {
     "public_repos": 117,
-    "contributions_last_12mo": 844,
+    "contributions_last_12mo": 845,
     "pull_requests_merged": 107,
-    "current_streak_days": 7,
-    "longest_streak_days": 7,
+    "current_streak_days": 8,
+    "longest_streak_days": 8,
     "followers": 8
   },
   "open_to": [
@@ -246,7 +245,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-09"
+  "updated_at": "2026-11-10"
 }
 ```
 <!--CARD:END-->
