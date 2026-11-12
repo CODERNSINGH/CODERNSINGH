@@ -145,7 +145,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 8 days ago |
+| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 9 days ago |
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 2 weeks ago |
 | [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 2 weeks ago |
 | [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 3 weeks ago |
@@ -245,7 +245,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-11"
+  "updated_at": "2026-11-12"
 }
 ```
 <!--CARD:END-->
