@@ -39,10 +39,11 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
 ## 🌍 Upstream contributions
 
 <!--UPSTREAM:START-->
-**16 merged · 4 in review · 4 repositories** <sub>(auto-updated daily)</sub>
+**16 merged · 5 in review · 5 repositories** <sub>(auto-updated daily)</sub>
 
 | | project | pull request | status | opened |
 |:-:|:--|:--|:--|:--|
+| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/sdk](https://github.com/kubeflow/sdk) <sub>★ 161</sub> | [fix(docs): use base_url in the Spark Connect local testing guide](https://github.com/kubeflow/sdk/pull/951) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-61562][PYTHON][CONNECT] Support NumPy scalar operands in Spark Connect Column oper…](https://github.com/apache/spark/pull/60410) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-60648][PS] Support ordering comparisons between boolean and numeric pandas-on-Spar…](https://github.com/apache/spark/pull/60298) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-60594][PYTHON] Treat NaN partition keys as equal when splitting Python UDTF TABLE…](https://github.com/apache/spark/pull/60233) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
@@ -146,7 +147,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 11 days ago |
+| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 12 days ago |
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 2 weeks ago |
 | [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 2 weeks ago |
 | [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 3 weeks ago |
@@ -223,6 +224,7 @@ timeline
     "Aniket-bit7/SectionA_G1_Rapido_Ride_Analysis",
     "apache/spark",
     "heysaiyad/dev-toolkit",
+    "kubeflow/sdk",
     "newton-school-ai/hireflow-ai_1"
   ],
   "languages": [
@@ -234,10 +236,10 @@ timeline
     "CSS"
   ],
   "stats": {
-    "public_repos": 117,
-    "contributions_last_12mo": 848,
+    "public_repos": 118,
+    "contributions_last_12mo": 851,
     "pull_requests_merged": 107,
-    "current_streak_days": 1,
+    "current_streak_days": 3,
     "longest_streak_days": 9,
     "followers": 8
   },
@@ -246,7 +248,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-14"
+  "updated_at": "2026-11-15"
 }
 ```
 <!--CARD:END-->
