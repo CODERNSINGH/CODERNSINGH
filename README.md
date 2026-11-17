@@ -44,10 +44,10 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
 | | project | pull request | status | opened |
 |:-:|:--|:--|:--|:--|
 | <img src="https://github.com/pankajbaid567.png?size=40" width="20" height="20" alt="pankajbaid567"> | [pankajbaid567/mca-capstone](https://github.com/pankajbaid567/mca-capstone) | [m3: main memory model with tests, Yosys synthesis flow and synthesis …](https://github.com/pankajbaid567/mca-capstone/pull/2) | 🟣&nbsp;merged | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-61745][CONNECT][PYTHON] Support empty NumPy ndarray and PyArrow Table in createDat…](https://github.com/apache/spark/pull/60521) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61745][CONNECT][PYTHON] Support empty NumPy ndarray and PyArrow Table in createDat…](https://github.com/apache/spark/pull/60521) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/sdk](https://github.com/kubeflow/sdk) <sub>★ 162</sub> | [fix(docs): use base_url in the Spark Connect local testing guide](https://github.com/kubeflow/sdk/pull/951) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-61562][PYTHON][CONNECT] Support NumPy scalar operands in Spark Connect Column oper…](https://github.com/apache/spark/pull/60410) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.5k</sub> | [[SPARK-60648][PS] Support ordering comparisons between boolean and numeric pandas-on-Spar…](https://github.com/apache/spark/pull/60298) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61562][PYTHON][CONNECT] Support NumPy scalar operands in Spark Connect Column oper…](https://github.com/apache/spark/pull/60410) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-60648][PS] Support ordering comparisons between boolean and numeric pandas-on-Spar…](https://github.com/apache/spark/pull/60298) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [Close issue 26: working Docker deployment + fix broken prep guide link](https://github.com/newton-school-ai/hireflow-ai_1/pull/59) | 🟢&nbsp;in&nbsp;review | Sep 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [feat: add EmailService for weekly report delivery (Issue #21)](https://github.com/newton-school-ai/hireflow-ai_1/pull/50) | 🟣&nbsp;merged | Jul 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [feat: add ReportGenerator and weekly report API (Issue #20)](https://github.com/newton-school-ai/hireflow-ai_1/pull/49) | 🟣&nbsp;merged | Jul 2026 |
@@ -147,11 +147,11 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | today |
-| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 13 days ago |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | yesterday |
+| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 2 weeks ago |
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 2 weeks ago |
 | [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 3 weeks ago |
-| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 3 weeks ago |
+| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 4 weeks ago |
 | [**airis-lecture-01**](https://github.com/CODERNSINGH/airis-lecture-01) | AIRIS lecture 01: intro to AI and the toolkit | `—` | 7 weeks ago |
 <!--RECENT:END-->
 
@@ -249,7 +249,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-16"
+  "updated_at": "2026-11-17"
 }
 ```
 <!--CARD:END-->
