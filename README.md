@@ -147,12 +147,12 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | yesterday |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 2 days ago |
 | [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 2 weeks ago |
-| [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 2 weeks ago |
+| [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 3 weeks ago |
 | [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 3 weeks ago |
 | [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 4 weeks ago |
-| [**airis-lecture-01**](https://github.com/CODERNSINGH/airis-lecture-01) | AIRIS lecture 01: intro to AI and the toolkit | `—` | 7 weeks ago |
+| [**airis-lecture-01**](https://github.com/CODERNSINGH/airis-lecture-01) | AIRIS lecture 01: intro to AI and the toolkit | `—` | 8 weeks ago |
 <!--RECENT:END-->
 
 ## 🏙️ Contribution skyline
@@ -237,19 +237,19 @@ timeline
     "CSS"
   ],
   "stats": {
-    "public_repos": 119,
-    "contributions_last_12mo": 855,
+    "public_repos": 121,
+    "contributions_last_12mo": 857,
     "pull_requests_merged": 108,
-    "current_streak_days": 4,
+    "current_streak_days": 5,
     "longest_streak_days": 9,
-    "followers": 8
+    "followers": 9
   },
   "open_to": [
     "agent pipelines",
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-17"
+  "updated_at": "2026-11-18"
 }
 ```
 <!--CARD:END-->
