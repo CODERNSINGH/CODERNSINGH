@@ -39,10 +39,11 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
 ## 🌍 Upstream contributions
 
 <!--UPSTREAM:START-->
-**17 merged · 6 in review · 6 repositories** <sub>(auto-updated daily)</sub>
+**17 merged · 7 in review · 7 repositories** <sub>(auto-updated daily)</sub>
 
 | | project | pull request | status | opened |
 |:-:|:--|:--|:--|:--|
+| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 207</sub> | [fix(task): quote paths so tasks work from a directory with spaces](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/253) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/pankajbaid567.png?size=40" width="20" height="20" alt="pankajbaid567"> | [pankajbaid567/mca-capstone](https://github.com/pankajbaid567/mca-capstone) | [m3: main memory model with tests, Yosys synthesis flow and synthesis …](https://github.com/pankajbaid567/mca-capstone/pull/2) | 🟣&nbsp;merged | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61745][CONNECT][PYTHON] Support empty NumPy ndarray and PyArrow Table in createDat…](https://github.com/apache/spark/pull/60521) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/sdk](https://github.com/kubeflow/sdk) <sub>★ 162</sub> | [fix(docs): use base_url in the Spark Connect local testing guide](https://github.com/kubeflow/sdk/pull/951) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
@@ -52,7 +53,6 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [feat: add EmailService for weekly report delivery (Issue #21)](https://github.com/newton-school-ai/hireflow-ai_1/pull/50) | 🟣&nbsp;merged | Jul 2026 |
 | <img src="https://github.com/newton-school-ai.png?size=40" width="20" height="20" alt="newton-school-ai"> | [newton-school-ai/hireflow-ai_1](https://github.com/newton-school-ai/hireflow-ai_1) | [feat: add ReportGenerator and weekly report API (Issue #20)](https://github.com/newton-school-ai/hireflow-ai_1/pull/49) | 🟣&nbsp;merged | Jul 2026 |
 | <img src="https://github.com/Aniket-bit7.png?size=40" width="20" height="20" alt="Aniket-bit7"> | [Aniket-bit7/SectionA_G1_Rapido_Ride_Analysis](https://github.com/Aniket-bit7/SectionA_G1_Rapido_Ride_Analysis) | [Updated EDA - Narendra Singh](https://github.com/Aniket-bit7/SectionA_G1_Rapido_Ride_Analysis/pull/8) | 🟣&nbsp;merged | Apr 2026 |
-| <img src="https://github.com/heysaiyad.png?size=40" width="20" height="20" alt="heysaiyad"> | [heysaiyad/dev-toolkit](https://github.com/heysaiyad/dev-toolkit) <sub>★ 22</sub> | [Solve UI issue Typing Animation and UI issue](https://github.com/heysaiyad/dev-toolkit/pull/324) | 🟣&nbsp;merged | Oct 2025 |
 <!--UPSTREAM:END-->
 
 ## 🧪 Flagship projects
@@ -147,7 +147,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 2 days ago |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 3 days ago |
 | [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 2 weeks ago |
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 3 weeks ago |
 | [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 3 weeks ago |
@@ -224,6 +224,7 @@ timeline
     "Aniket-bit7/SectionA_G1_Rapido_Ride_Analysis",
     "apache/spark",
     "heysaiyad/dev-toolkit",
+    "kubeflow/mcp-apache-spark-history-server",
     "kubeflow/sdk",
     "newton-school-ai/hireflow-ai_1",
     "pankajbaid567/mca-capstone"
@@ -238,9 +239,9 @@ timeline
   ],
   "stats": {
     "public_repos": 121,
-    "contributions_last_12mo": 857,
+    "contributions_last_12mo": 842,
     "pull_requests_merged": 108,
-    "current_streak_days": 5,
+    "current_streak_days": 1,
     "longest_streak_days": 9,
     "followers": 9
   },
@@ -249,7 +250,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-18"
+  "updated_at": "2026-11-19"
 }
 ```
 <!--CARD:END-->
