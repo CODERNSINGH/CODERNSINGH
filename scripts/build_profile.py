@@ -684,7 +684,6 @@ def main():
 
     readme_path = ROOT / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
-    readme = replace_block(readme, "UPSTREAM", upstream_block(prs))
     readme = replace_block(readme, "RECENT", recent_block(user, today))
     readme = replace_block(readme, "CARD", card_block(user, prs, days, langs, today))
     readme_path.write_text(readme, encoding="utf-8")

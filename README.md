@@ -21,7 +21,7 @@
 
 $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \varepsilon, \qquad \varepsilon \to 0 \text{ one merged PR at a time}$$
 
-## 🟢 Agents × open source
+## Agents × open source
 
 > I build AI products that do real work, and I keep a human in the loop where it matters.
 
@@ -36,26 +36,7 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
   <img alt="Activity overview for the last 12 months: share of commits, issues, pull requests and code review" src="assets/generated/activity-light.svg" width="100%">
 </picture>
 
-## 🌍 Upstream contributions
-
-<!--UPSTREAM:START-->
-**18 merged · 10 in review · 8 repositories** <sub>(auto-updated daily)</sub>
-
-| | project | pull request | status | opened |
-|:-:|:--|:--|:--|:--|
-| <img src="https://github.com/vaibhav7000.png?size=40" width="20" height="20" alt="vaibhav7000"> | [vaibhav7000/NST_AD](https://github.com/vaibhav7000/NST_AD) <sub>★ 2</sub> | [feat(shapestudio): add pill shape](https://github.com/vaibhav7000/NST_AD/pull/6) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/vaibhav7000.png?size=40" width="20" height="20" alt="vaibhav7000"> | [vaibhav7000/NST_AD](https://github.com/vaibhav7000/NST_AD) <sub>★ 2</sub> | [feat(shapestudio): edit saved designs](https://github.com/vaibhav7000/NST_AD/pull/5) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 210</sub> | [fix(client): don't drop a status when listing running and completed apps](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/257) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 210</sub> | [fix(task): use --cov-report so task test reads pyproject.toml](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/255) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 210</sub> | [fix(task): quote paths so tasks work from a directory with spaces](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/253) | 🟣&nbsp;merged | Nov 2026 |
-| <img src="https://github.com/pankajbaid567.png?size=40" width="20" height="20" alt="pankajbaid567"> | [pankajbaid567/mca-capstone](https://github.com/pankajbaid567/mca-capstone) | [m3: main memory model with tests, Yosys synthesis flow and synthesis …](https://github.com/pankajbaid567/mca-capstone/pull/2) | 🟣&nbsp;merged | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61745][CONNECT][PYTHON] Support empty NumPy ndarray and PyArrow Table in createDat…](https://github.com/apache/spark/pull/60521) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/sdk](https://github.com/kubeflow/sdk) <sub>★ 164</sub> | [fix(docs): use base_url in the Spark Connect local testing guide](https://github.com/kubeflow/sdk/pull/951) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61562][PYTHON][CONNECT] Support NumPy scalar operands in Spark Connect Column oper…](https://github.com/apache/spark/pull/60410) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-60648][PS] Support ordering comparisons between boolean and numeric pandas-on-Spar…](https://github.com/apache/spark/pull/60298) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-<!--UPSTREAM:END-->
-
-## 🧪 Flagship projects
+## Flagship projects
 
 <table>
 <tr>
@@ -112,7 +93,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 </tr>
 </table>
 
-## 🛠 How I work
+## How I work
 
 | practice | where you can see it |
 |:--|:--|
@@ -123,7 +104,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 | CI from day one | I added the backend and frontend CI workflows to HireFlow AI |
 | Honest prototypes | AGNIDRISHTI runs with no keys and has a page that lists what is real and what is still a placeholder |
 
-## 📊 More projects
+## More projects
 
 | project | what | headline | stack |
 |:--|:--|:--|:--|
@@ -134,7 +115,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 | [**ECG Analysis**](https://github.com/CODERNSINGH/ECG-Analysis-Gloab-circuit-Hackathon) | Heart-signal analysis for a hackathon | Notebook-first exploration of ECG data | Python · Jupyter |
 | [**Rapido Ride Analysis**](https://github.com/CODERNSINGH/DVA-Rapido-Dashboard) | Data and visual analytics on ride data | Team EDA and dashboard | pandas · Jupyter |
 
-## 📈 Ship log
+## Ship log
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/shiplog-dark.svg">
@@ -143,7 +124,7 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 
 <sub>Drawn daily by <a href="scripts/build_profile.py"><code>scripts/build_profile.py</code></a> (standard-library Python), which also keeps the tables on this page current.</sub>
 
-### 🚢 Recently shipped
+### Recently shipped
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
@@ -155,14 +136,14 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 3 weeks ago |
 <!--RECENT:END-->
 
-## 🏙️ Contribution skyline
+## Contribution skyline
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/generated/skyline-dark.svg">
   <img alt="3D skyline of my contribution calendar" src="assets/generated/skyline-light.svg" width="100%">
 </picture>
 
-## 🛤️ Trajectory
+## Trajectory
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'fontFamily':'ui-sans-serif, system-ui','cScale0':'#0e4429','cScaleLabel0':'#ffffff','cScale1':'#26a641','cScaleLabel1':'#0d1117','cScale2':'#39d353','cScaleLabel2':'#0d1117'}}}%%
@@ -177,7 +158,7 @@ timeline
          : PySpark fixes sent to apache/spark
 ```
 
-## 🧰 Toolchain
+## Toolchain
 
 <p>
   <b>AI & data</b><br>
@@ -204,7 +185,7 @@ timeline
 </p>
 
 <details>
-<summary><b>🤖 <code>gh api users/CODERNSINGH</code></b> (the extended edition)</summary>
+<summary><b><code>gh api users/CODERNSINGH</code></b> (the extended edition)</summary>
 
 <!--CARD:START-->
 ```json
@@ -260,11 +241,6 @@ timeline
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/generated/snake-dark.svg">
-  <img alt="Snake eating my contribution graph" src="assets/generated/snake.svg" width="100%">
-</picture>
-
 <p align="center">
-  <sub>Built in the open. The header, activity overview, project cards, ship log, skyline and snake are drawn by this repo's own <a href=".github/workflows/refresh-profile.yml">GitHub Action</a> and <a href="scripts">scripts</a>. Fork anything.</sub>
+  <sub>Built in the open. The header, activity overview, project cards, ship log and skyline are drawn by this repo's own <a href=".github/workflows/refresh-profile.yml">GitHub Action</a> and <a href="scripts">scripts</a>. Fork anything.</sub>
 </p>

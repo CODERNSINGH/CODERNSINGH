@@ -31,14 +31,6 @@ jobs:
           # Optional: add a PROFILE_TOKEN secret (classic PAT, read:user) to count private contributions too.
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Draw the snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/generated/snake.svg
-            assets/generated/snake-dark.svg?palette=github-dark
-
       - name: Commit if anything changed
         run: |
           git config user.name "github-actions[bot]"
