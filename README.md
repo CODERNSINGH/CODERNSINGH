@@ -45,12 +45,12 @@ $$P(\texttt{it compiles} \mid \texttt{git push}_{\text{narendra}}) \;=\; 1 - \va
 |:-:|:--|:--|:--|:--|
 | <img src="https://github.com/vaibhav7000.png?size=40" width="20" height="20" alt="vaibhav7000"> | [vaibhav7000/NST_AD](https://github.com/vaibhav7000/NST_AD) <sub>★ 2</sub> | [feat(shapestudio): add pill shape](https://github.com/vaibhav7000/NST_AD/pull/6) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/vaibhav7000.png?size=40" width="20" height="20" alt="vaibhav7000"> | [vaibhav7000/NST_AD](https://github.com/vaibhav7000/NST_AD) <sub>★ 2</sub> | [feat(shapestudio): edit saved designs](https://github.com/vaibhav7000/NST_AD/pull/5) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 208</sub> | [fix(client): don't drop a status when listing running and completed apps](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/257) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 208</sub> | [fix(task): use --cov-report so task test reads pyproject.toml](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/255) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 208</sub> | [fix(task): quote paths so tasks work from a directory with spaces](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/253) | 🟣&nbsp;merged | Nov 2026 |
+| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 210</sub> | [fix(client): don't drop a status when listing running and completed apps](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/257) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 210</sub> | [fix(task): use --cov-report so task test reads pyproject.toml](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/255) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/mcp-apache-spark-history-server](https://github.com/kubeflow/mcp-apache-spark-history-server) <sub>★ 210</sub> | [fix(task): quote paths so tasks work from a directory with spaces](https://github.com/kubeflow/mcp-apache-spark-history-server/pull/253) | 🟣&nbsp;merged | Nov 2026 |
 | <img src="https://github.com/pankajbaid567.png?size=40" width="20" height="20" alt="pankajbaid567"> | [pankajbaid567/mca-capstone](https://github.com/pankajbaid567/mca-capstone) | [m3: main memory model with tests, Yosys synthesis flow and synthesis …](https://github.com/pankajbaid567/mca-capstone/pull/2) | 🟣&nbsp;merged | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61745][CONNECT][PYTHON] Support empty NumPy ndarray and PyArrow Table in createDat…](https://github.com/apache/spark/pull/60521) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
-| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/sdk](https://github.com/kubeflow/sdk) <sub>★ 163</sub> | [fix(docs): use base_url in the Spark Connect local testing guide](https://github.com/kubeflow/sdk/pull/951) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
+| <img src="https://github.com/kubeflow.png?size=40" width="20" height="20" alt="kubeflow"> | [kubeflow/sdk](https://github.com/kubeflow/sdk) <sub>★ 164</sub> | [fix(docs): use base_url in the Spark Connect local testing guide](https://github.com/kubeflow/sdk/pull/951) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-61562][PYTHON][CONNECT] Support NumPy scalar operands in Spark Connect Column oper…](https://github.com/apache/spark/pull/60410) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 | <img src="https://github.com/apache.png?size=40" width="20" height="20" alt="apache"> | [apache/spark](https://github.com/apache/spark) <sub>★ 44.6k</sub> | [[SPARK-60648][PS] Support ordering comparisons between boolean and numeric pandas-on-Spar…](https://github.com/apache/spark/pull/60298) | 🟢&nbsp;in&nbsp;review | Nov 2026 |
 <!--UPSTREAM:END-->
@@ -147,12 +147,12 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | yesterday |
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 6 days ago |
+| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | yesterday |
+| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | yesterday |
+| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 2 days ago |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 7 days ago |
 | [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 2 weeks ago |
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 3 weeks ago |
-| [**AutoSteer**](https://github.com/CODERNSINGH/AutoSteer) | AI Editorial Studio: researches AI news, renders carousels + Manim reels, publishes after you… | `Python` | 3 weeks ago |
-| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 4 weeks ago |
 <!--RECENT:END-->
 
 ## 🏙️ Contribution skyline
@@ -239,10 +239,10 @@ timeline
     "CSS"
   ],
   "stats": {
-    "public_repos": 122,
-    "contributions_last_12mo": 856,
+    "public_repos": 123,
+    "contributions_last_12mo": 911,
     "pull_requests_merged": 109,
-    "current_streak_days": 1,
+    "current_streak_days": 3,
     "longest_streak_days": 9,
     "followers": 8
   },
@@ -251,7 +251,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-22"
+  "updated_at": "2026-11-23"
 }
 ```
 <!--CARD:END-->
