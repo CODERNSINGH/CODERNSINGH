@@ -128,11 +128,11 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | yesterday |
-| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | yesterday |
-| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 2 days ago |
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 7 days ago |
-| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 2 weeks ago |
+| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | yesterday |
+| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | 2 days ago |
+| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 2 days ago |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 8 days ago |
+| [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 3 weeks ago |
 | [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 3 weeks ago |
 <!--RECENT:END-->
 
@@ -221,8 +221,8 @@ timeline
   ],
   "stats": {
     "public_repos": 123,
-    "contributions_last_12mo": 911,
-    "pull_requests_merged": 109,
+    "contributions_last_12mo": 922,
+    "pull_requests_merged": 111,
     "current_streak_days": 3,
     "longest_streak_days": 9,
     "followers": 8
@@ -232,7 +232,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-23"
+  "updated_at": "2026-11-24"
 }
 ```
 <!--CARD:END-->
