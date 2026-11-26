@@ -128,12 +128,12 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 2 days ago |
-| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | 3 days ago |
-| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 3 days ago |
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 9 days ago |
+| [**pocket-terminal-AD**](https://github.com/CODERNSINGH/pocket-terminal-AD) | This is application Development Project | `JavaScript` | yesterday |
+| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 3 days ago |
+| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | 4 days ago |
+| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 4 days ago |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 10 days ago |
 | [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 3 weeks ago |
-| [**airis**](https://github.com/CODERNSINGH/airis) | Notes and resources from my AIRIS sessions | `Jupyter Notebook` | 4 weeks ago |
 <!--RECENT:END-->
 
 ## Contribution skyline
@@ -220,11 +220,11 @@ timeline
     "CSS"
   ],
   "stats": {
-    "public_repos": 123,
-    "contributions_last_12mo": 949,
-    "pull_requests_merged": 111,
-    "current_streak_days": 5,
-    "longest_streak_days": 9,
+    "public_repos": 124,
+    "contributions_last_12mo": 983,
+    "pull_requests_merged": 112,
+    "current_streak_days": 6,
+    "longest_streak_days": 16,
     "followers": 8
   },
   "open_to": [
@@ -232,7 +232,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-25"
+  "updated_at": "2026-11-26"
 }
 ```
 <!--CARD:END-->
