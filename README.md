@@ -128,11 +128,11 @@ Detects and classifies industrial fires and persistent heat sources from **NASA 
 <!--RECENT:START-->
 | repo | what | lang | pushed |
 |:--|:--|:--|:--|
-| [**pocket-terminal-AD**](https://github.com/CODERNSINGH/pocket-terminal-AD) | This is application Development Project | `JavaScript` | yesterday |
-| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 3 days ago |
-| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | 4 days ago |
-| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 4 days ago |
-| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 10 days ago |
+| [**pocket-terminal-AD**](https://github.com/CODERNSINGH/pocket-terminal-AD) | This is application Development Project | `JavaScript` | 2 days ago |
+| [**turbo-chat**](https://github.com/CODERNSINGH/turbo-chat) | Forktrix-Chat: real-time chat rooms in your terminal over Socket.io, runs with npx | `JavaScript` | 4 days ago |
+| [**nstbuddy-sage-AD**](https://github.com/CODERNSINGH/nstbuddy-sage-AD) | This is my another Repo for for AD | `JavaScript` | 5 days ago |
+| [**nstbuddy-Sage**](https://github.com/CODERNSINGH/nstbuddy-Sage) | macOS app for nstbuddy, the go-to helper for NST questions | `JavaScript` | 5 days ago |
+| [**go**](https://github.com/CODERNSINGH/go) | Learning Golang | `—` | 11 days ago |
 | [**codix**](https://github.com/CODERNSINGH/codix) | Learn coding and maths by answering simple questions | `—` | 3 weeks ago |
 <!--RECENT:END-->
 
@@ -232,7 +232,7 @@ timeline
     "open-source bugs",
     "pairing on an issue"
   ],
-  "updated_at": "2026-11-26"
+  "updated_at": "2026-11-27"
 }
 ```
 <!--CARD:END-->
